@@ -8,6 +8,6 @@ Refactor-Hariseon-Codebase is a landing page for Horiseon. I'm motivated to do t
 
 Copy this link "https://hoduola5.github.io/Refactor-Hariseon-Codebase/" from the README, paste on the browser and fand navigate around it.
 
-Here is the screenshot of what the form look like:
+Here is the screenshot of what the page looks like:
 
 ![alt text](assets/images/Refactor-Hariseon.png)
